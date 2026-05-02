@@ -11,6 +11,8 @@ app.use(cors({
   origin: [
     'http://localhost:5173',
     'http://localhost:5174',
+    'https://chiniotiwonders.com',
+    'https://www.chiniotiwonders.com',
     'https://chinioti-wonders-client.vercel.app',
     'https://chinioti-wonders-admin.vercel.app'
   ],
